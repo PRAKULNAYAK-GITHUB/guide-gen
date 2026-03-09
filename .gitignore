@@ -1,0 +1,12 @@
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.onnx
+*.tar.gz
+*.zip
+backend/uploads/videos/
+backend/tools/voices/
+backend/tools/piper/
+node_modules/
+__pycache__/
