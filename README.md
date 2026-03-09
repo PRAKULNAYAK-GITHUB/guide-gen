@@ -1,6 +1,3 @@
-3️⃣ Automated Walkthrough Generation
-
-```markdown
 # Automated Walkthrough Generation using Speech Recognition and Computer Vision
 
 ## Overview
@@ -72,11 +69,9 @@ automated-walkthrough-generator/
 ├── requirements.txt
 └── README.md
 
-
 ---
 
 ## Installation
-
 ```bash
 git clone https://github.com/yourusername/automated-walkthrough-generator.git
 cd automated-walkthrough-generator
@@ -102,6 +97,8 @@ Generate final tutorial video
 
 
 Future Improvements:
+
+
 Automatic UI element detection
 LLM-based instruction generation
 Multi-language tutorial generation
